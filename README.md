@@ -1,3 +1,4 @@
+# Projet de gestion de compte bancaire et de simulateur de GAB
 # SPÉCIFICATIONS
 Éléments clés
 Les grandes lignes du fonctionnement du simulateur de guichet automatique sont résumées comme suit :
